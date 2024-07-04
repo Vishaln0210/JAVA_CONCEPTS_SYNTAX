@@ -1,5 +1,3 @@
-package Methods;
-
 import java.util.Arrays;
 
 public class varargs {
